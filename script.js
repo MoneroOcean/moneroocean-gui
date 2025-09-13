@@ -438,7 +438,7 @@ var COINS = {
 	9231: {
 		name: "XEQ",
 		divisor: 10000,
-		url: "https://explorer.equilibria.network",
+		url: "https://explorer.equilibria.cc",
 		time: 120,
 	},
 	19950: {
